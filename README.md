@@ -1,27 +1,21 @@
-# flutter_application_1
-Tugas Kelompok Flutter  
-Hilda Nurhasanah & Hani Firyal Salisunisa
+# Quiz_HildaNurhasanah
+Tugas Flutter - Fitur Calendar  
+Hilda Nurhasanah - 1000116156
 
-## 📅 Halaman Calendar
-Tampilan fitur kalender pada aplikasi Flutter.  
-Pengguna dapat memilih tanggal dan waktu untuk melakukan **Booking Consultation** secara interaktif.
+## 📅 Deskripsi
+Halaman ini merupakan bagian dari aplikasi Flutter yang menampilkan fitur **pemilihan tanggal dan waktu konsultasi (Booking Consultation)**.  
+Pengguna dapat memilih tanggal di kalender dan menentukan jam konsultasi sesuai ketersediaan.
 
 ## 🖼️ Tampilan Aplikasi
 
-**1️⃣ Halaman Calendar**
-![Calendar Page](https://raw.githubusercontent.com/nurhasanahhilda7/flutter_application_1/main/2025-11-06%20(2).png)
+**Halaman Calendar (Booking Consultation)**
+![Calendar Page](https://raw.githubusercontent.com/nurhasanahhilda7/Quiz_HildaNurhasanah/main/2025-11-06%20(2).png)
 
-**2️⃣ Halaman Booking Consultation**
-![Booking Consultation Page](https://raw.githubusercontent.com/nurhasanahhilda7/flutter_application_1/main/2025-11-06%20(3).png)
-
-## 💡 Fitur Utama
-- Tampilan **kalender interaktif** untuk memilih tanggal konsultasi.  
-- Pilihan **jam konsultasi fleksibel** dengan desain modern dan lembut.  
-- Tombol **Booking** untuk mengonfirmasi jadwal konsultasi.  
-- Informasi nama pengguna di bagian bawah halaman.
+**Tampilan Pemilihan Waktu**
+![Time Picker](https://raw.githubusercontent.com/nurhasanahhilda7/Quiz_HildaNurhasanah/main/2025-11-06%20(3).png)
 
 ## ⚙️ Cara Menjalankan
-1. Buka project di **Android Studio** atau **VS Code**.  
-2. Jalankan perintah:
+1. Buka project di **Android Studio / VS Code**  
+2. Jalankan perintah berikut:
    ```bash
    flutter run
