@@ -1,6 +1,6 @@
 # Quiz_HildaNurhasanah
 Tugas Flutter - Fitur Calendar  
-Hilda Nurhasanah - 1000116156
+
 
 ## 📅 Deskripsi
 Halaman ini merupakan bagian dari aplikasi Flutter yang menampilkan fitur **pemilihan tanggal dan waktu konsultasi (Booking Consultation)**.  
@@ -19,3 +19,8 @@ Pengguna dapat memilih tanggal di kalender dan menentukan jam konsultasi sesuai 
 2. Jalankan perintah berikut:
    ```bash
    flutter run
+   Anggota Kelompok
+
+Hilda Nurhasanah (232101144)
+
+Hani Firyal Salisunisa (232101159)
