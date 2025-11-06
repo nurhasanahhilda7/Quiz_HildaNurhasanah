@@ -12,16 +12,16 @@ Pengguna dapat memilih tanggal dan waktu untuk melakukan **Booking Consultation*
 ![Calendar Page](https://raw.githubusercontent.com/nurhasanahhilda7/flutter_application_1/main/2025-11-06%20(2).png)
 
 **2️⃣ Halaman Booking Consultation**
-![Booking Consultation Page](https://raw.githubusercontent.com/nurhasanahhilda7/flutter_application_1/main/b0bee410-de88-4853-8a27-f94b3925cbb3.png)
+![Booking Consultation Page](https://raw.githubusercontent.com/nurhasanahhilda7/flutter_application_1/main/2025-11-06%20(3).png)
 
 ## 💡 Fitur Utama
 - Tampilan **kalender interaktif** untuk memilih tanggal konsultasi.  
-- Pilihan **jam konsultasi fleksibel** dengan tampilan modern.  
-- Desain **warna lembut dan elemen rounded** agar lebih nyaman digunakan.  
-- Identitas pengguna ditampilkan di bagian bawah halaman.
+- Pilihan **jam konsultasi fleksibel** dengan desain modern dan lembut.  
+- Tombol **Booking** untuk mengonfirmasi jadwal konsultasi.  
+- Informasi nama pengguna di bagian bawah halaman.
 
 ## ⚙️ Cara Menjalankan
 1. Buka project di **Android Studio** atau **VS Code**.  
-2. Jalankan perintah berikut:
+2. Jalankan perintah:
    ```bash
    flutter run
